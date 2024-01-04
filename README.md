@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/KelvinBarua/web102_prework/blob/main/assets/ezgif-2-be5915f165.gif' width='1000' alt='Video Walkthrough' />
+<img src= 'https://github.com/KelvinBarua/web102_prework/blob/main/assets/ezgif.com-video-to-gif-converter%20(1).gif' width='1000' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom and EzGif  ☝️🤓
